@@ -1,3 +1,3 @@
 from sklearn.preprocessing import OneHotEncoder
 
-ohe = OneHotEncoder()
+one_hot = OneHotEncoder()
